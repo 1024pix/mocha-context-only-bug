@@ -1,0 +1,23 @@
+{
+  "name": "mocha-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^9.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1024pix/mocha-context-only-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1024pix/mocha-context-only-bug/issues"
+  },
+  "homepage": "https://github.com/1024pix/mocha-context-only-bug#readme"
+}
